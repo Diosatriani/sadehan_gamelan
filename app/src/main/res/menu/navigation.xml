@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigasi_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigasi_favorite"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="Favorite" />
+    <item
+        android:id="@+id/navigasi_camera"
+        android:icon="@drawable/ic_camera_alt_black_24dp"
+        android:title="camera" />
+    <item
+        android:id="@+id/navigasi_iklan"
+        android:icon="@drawable/ic_assessment_black_24dp"
+        android:title="Iklan" />
+    <item
+        android:id="@+id/navigasi_more"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"
+        android:title="more" />
+
+</menu>

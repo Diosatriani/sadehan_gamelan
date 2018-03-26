@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sadehan_gamelan</string>
+    <string name="title_home">Home page</string>
+    <string name="title_favorite">favorite page</string>
+    <string name="title_camera">camera page</string>
+    <string name="title_iklan">iklan page</string>
+    <string name="title_more">more page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
